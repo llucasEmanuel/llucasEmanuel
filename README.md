@@ -13,4 +13,5 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llucasEmanuel&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasEmanuel&langs_count=10&layout=compact&theme=dracula)
 

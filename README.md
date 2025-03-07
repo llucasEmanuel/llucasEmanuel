@@ -12,5 +12,5 @@
  ![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F10?style=flat&logo=platformio&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llucasEmanuel&show_icons=true&theme=dracula)
 

@@ -42,4 +42,14 @@
 
 </div>
 
+---
+
+## 📱 Social Media
+<a href="https://www.linkedin.com/in/lucas-emanuel-556845276" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+</a>
+
+
+
+
 

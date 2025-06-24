@@ -2,7 +2,7 @@
 
 <div>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=llucasEmanuel&theme=dracula)
+![llucasEmanuel's Stats](https://github-readme-stats.vercel.app/api?username=llucasEmanuel&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasEmanuel&langs_count=10&layout=compact&theme=dracula)
 
 </div>

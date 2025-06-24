@@ -17,7 +17,7 @@
 - ⚛️ Quantum Computing
 - ⚙️ Embedded Systems
 - 🤖 Robotics
-- 🧩 Low Level Software
+- 🐧 Systems Programming
 
 ---
 

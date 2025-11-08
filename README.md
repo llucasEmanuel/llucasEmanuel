@@ -15,7 +15,6 @@
 - 🛡️ Cybersecurity
 - 🔒 Cryptography
 - ⚛️ Quantum Computing
-- ⚙️ Embedded Systems
 - 🤖 Robotics
 - 🐧 Systems Programming
 

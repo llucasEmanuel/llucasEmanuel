@@ -12,35 +12,16 @@
 ---
 
 ## 🔍 Areas of Interest
-- 🛡️ Cybersecurity
-- 🔒 Cryptography
-- ⚛️ Quantum Computing
-- 🤖 Robotics
-- 🐧 Systems Programming
+- 🛩️ Aerial Robotics
+- 👀 Computer Vision
+- ⚙️ Embedded Systems
+- 🧠 Embedded AI
 
 ---
 
-## 🛠️ Languages & Tools:
-<div>
+## 🛠️ Languages & Tools
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin: 0 8px;"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS2" width="30" height="30"/>
-
-
-  <a href="https://www.arduino.cc/">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://os.mbed.com/">
-    <img src="https://img.shields.io/badge/-MbedOS-0097FF?style=flat&logo=mbed&logoColor=white" alt="MbedOS" style="margin: 0 8px;"/>
-  </a>
-  <a href="https://platformio.org/">
-    <img src="https://img.shields.io/badge/-PlatformIO-FF7F10?style=flat&logo=platformio&logoColor=white" alt="PlatformIO" style="margin: 0 8px;"/>
-  </a>
-
-</div>
+`🚀 C/C++` `🐍 Python` `🤖 ROS2` `📟 Arduino` `👁️ Nvidia Jetson`
 
 ---
 

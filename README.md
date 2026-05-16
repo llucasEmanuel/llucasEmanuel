@@ -2,9 +2,11 @@
 
 <div>
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=llucasEmanuel&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llucasEmanuel&layout=compact&theme=radical" alt="Top Langs" width="34%">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=llucasEmanuel&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=llucasEmanuel&layout=compact&theme=radical" width="34%" />
 </p>
 
 </div>
